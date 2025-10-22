@@ -48,8 +48,8 @@ A primeira etapa prática consistiu na **Conversão de Fala em Texto** (Speech-t
 3.  O sistema transcreveu o áudio e identificou as informações pessoais (PII) e o sentimento por frase.
 
 **Captura de Tela da Conversa e Transcrição:**
-![Página inicial de Transcrição e Análise pós-chamada no Speech Studio](images/Transcrição2.png)
-![Resultado da Transcrição de áudio com PII e Sentimento por frase](images/image_97d48e.png)
+![Página inicial de Transcrição e Análise pós-chamada no Speech Studio](images/Transcrição1.png)
+![Resultado da Transcrição de áudio com PII e Sentimento por frase](images/Transcrição2.png)
 
 ---
 
@@ -65,7 +65,7 @@ A segunda etapa demonstrou a **Análise de Sentimento** em uma amostra de texto,
 
 **Captura de Tela da Análise de Sentimento:**
 ![Configuração inicial do Language Studio para análise de sentimento com texto de entrada](images/Language1.png)
-![Resultado da Análise de Sentimento, mostrando o Sentimento do Documento como Positivo (92.00% de Confiança)](images/Language3.png)
+![Resultado da Análise de Sentimento, mostrando o Sentimento do Documento como Positivo (92.00% de Confiança)]images/Language2.png(images/Language3.png)
 
 ---
 
