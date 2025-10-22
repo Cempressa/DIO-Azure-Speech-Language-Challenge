@@ -65,7 +65,8 @@ A segunda etapa demonstrou a **Análise de Sentimento** em uma amostra de texto,
 
 **Captura de Tela da Análise de Sentimento:**
 ![Configuração inicial do Language Studio para análise de sentimento com texto de entrada](images/Language1.png)
-![Resultado da Análise de Sentimento, mostrando o Sentimento do Documento como Positivo (92.00% de Confiança)](images/Language2.png)(images/Language3.png)
+![Resultado da Análise de Sentimento, mostrando o Sentimento do Documento como Positivo (92.00% de Confiança)](images/Language2.png)
+![Resultado completo da Análise de Sentimento (inclui visualização do Sentimento por Sentença)](images/Language3.png)
 
 ---
 
