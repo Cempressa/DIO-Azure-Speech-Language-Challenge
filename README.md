@@ -34,7 +34,7 @@ Foi criado um recurso de **Serviços de Fala** (Speech Services), que oferece o 
 * **Faixa de Preços:** **`Free F0`** (Gratuito) - Crucial para evitar custos.
 
 **Evidência da Criação do Recurso (Plano Gratuito F0):**
-![Detalhes do recurso DIO-Speech-2025 no painel de gerenciamento do Azure](images/image_a50e94.png)
+![Detalhes do recurso DIO-Speech-2025 no painel de gerenciamento do Azure](images/Inscricao-azure.png)
 
 ---
 
