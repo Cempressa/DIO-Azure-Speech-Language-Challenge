@@ -1,10 +1,3 @@
-Perfeito, Marcos\! Com as imagens dos Studios e do Azure em mãos, podemos finalizar o `README.md` com os links e as informações mais precisas.
-
-O seu arquivo `README (2).md` é uma ótima base, e eu o atualizei a seguir com os links corretos para as imagens que você forneceu, além de adicionar todas as **citações** necessárias, seguindo as melhores práticas de documentação.
-
-**Use este texto FINAL para colar no seu arquivo `README.md` no GitHub:**
-
-```markdown
 # DIO-Azure-Speech-Language-Challenge
 Entrega final do Desafio DIO, utilizando Azure Speech Studio e Language Studio para análise de fala e linguagem natural.
 
